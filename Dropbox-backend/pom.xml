@@ -80,7 +80,7 @@
 			<plugin>
 				<groupId>org.sonarsource.scanner.maven</groupId>
 				<artifactId>sonar-maven-plugin</artifactId>
-				<version>3.11.0.3922</version> <!-- Use latest stable -->
+				<version>5.1.0.4751</version> <!-- Use latest stable -->
 			</plugin>
 		</plugins>
 	</build>
